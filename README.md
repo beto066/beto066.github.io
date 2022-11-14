@@ -2,8 +2,19 @@
 
 Sou Werbeth gosto de programar trabalho na empresa Barco digital e estudo na Unitins
 
-Sou programador: Java, PHP, JS e entre outros
+Sou programador: 
+- Java 
+- PHP 
+- JS
+- outros
 
-Conheço frameworks como VueJS, Angular, Laravel, Inertia, Quarkus 
+Conheço frameworks: 
+- VueJS  
+- Angular 
+- Laravel 
+- Inertia
+- Quarkus 
 
-Pretendo aprender: flutter e outros
+Pretendo aprender: 
+- flutter 
+- outros
